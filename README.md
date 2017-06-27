@@ -15,3 +15,6 @@ $ npm install
 $ react-native run-android
 ```
 
+### Demo
+
+![alt text](https://github.com/parvbhullar/GitIssuesSearchApp-ReactNative/blob/master/components/img/git-issues.gif "Demo Gif Inline")
